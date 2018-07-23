@@ -1,5 +1,5 @@
-# TEArepo
-This repository contains the individual projects undertaken during the course "Numerical optimization and large scale linear algebra" taught by Prof. Paris Vassalos in the context of Msc. in Data Science at Athens University of Economics and Business.
+# Numerical Optimization and Large Scale Linear Algebra
+This repository contains the individual projects undertaken during the course "Numerical Optimization and Large Scale Linear Algebra" taught by Prof. Paris Vassalos in the context of Msc. in Data Science at Athens University of Economics and Business.
 
 ### 1st Assignment - Image Deblurring
 1. [Assignment Description](project_ls_svd_image_deblurring/svd_deblurring_description.pdf) 
