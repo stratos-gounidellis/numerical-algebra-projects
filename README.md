@@ -5,7 +5,7 @@ This repository contains the individual projects undertaken during the course "N
 1. [Assignment Description](project_ls_svd_image_deblurring/svd_deblurring_description.pdf) 
 2. [Jupyter Notebook](project_ls_svd_image_deblurring/Assignment2b_Gounidellis_Problem5.html)
 
-### 2nd Assignment - Pagerank Implementation
+### 2nd Assignment - PageRank Implementation
 1. [Assignment Description](project_pagerank/assignment_description.pdf) 
 2. [Jupyter Notebook](project_pagerank/Assignment3_Gounidellis.html)
 
